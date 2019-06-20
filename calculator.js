@@ -131,5 +131,3 @@
   return calculator;
 
 }
-
-console.log('whole module',calculatorModule());
